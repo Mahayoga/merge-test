@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 Ubah yoga
+=======
+Ubah rangga
+>>>>>>> a336e6f5aa1f3c300eb55b269f52512bc697adc4
